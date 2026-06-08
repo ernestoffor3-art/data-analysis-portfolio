@@ -1,4 +1,6 @@
-id,value
-1,10
-2,20
-3,30
+Name,Math,English,Science
+Alice,78,85,90
+Bob,60,70,65
+Charlie,88,92,95
+David,55,60,58
+Eve,91,89,94
